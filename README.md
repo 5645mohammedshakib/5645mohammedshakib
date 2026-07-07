@@ -1,39 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Mohammed%20Shakib&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Computer%20Science%20(AI%20%26%20ML)%20%7C%20Computer%20Vision%20%7C%20Python%20%7C%20C&descAlignY=68&descSize=15&descColor=8b949e"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Computer+Vision+Projects+%F0%9F%91%81%EF%B8%8F;Data+Structures+%26+Algorithms+in+C+%F0%9F%A7%A0;Learning+AI+%26+ML+every+single+day+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-[![komarev](https://komarev.com/ghpvc/?username=5645mohammedshakib&style=flat&color=58a6ff&label=profile+views)](https://github.com/5645mohammedshakib)
-&ensp;
-[![followers](https://img.shields.io/github/followers/5645mohammedshakib?label=followers&style=flat&color=58a6ff&labelColor=161b22)](https://github.com/5645mohammedshakib?tab=followers)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1b2a,100:0d1117&height=120&section=header&text=Hi%20There%2C%20I%27m%20Mohammed%20Shakib%20%F0%9F%91%8B&fontSize=32&fontColor=58a6ff&animation=fadeIn&fontAlignY=55"/>
 
 </div>
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5645mohammedshakib&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=8" width="38%"/>
+<img align="right" width="38%" src="https://raw.githubusercontent.com/5645mohammedshakib/5645mohammedshakib/main/boy.png" alt="Mohammed Shakib — 3D Developer"/>
 
-### 👋 Hey there, I'm Mohammed Shakib
+### 🧑‍💻 Who Am I?
 
-- 🎓 &nbsp;**B.Tech** — Computer Science (AI & ML)
-- 🔭 &nbsp;Working on **Computer Vision** with Python & OpenCV
-- 🌱 &nbsp;Learning **Machine Learning** fundamentals
-- 💡 &nbsp;Strong in **C language** & **Data Structures**
-- 📍 &nbsp;India
+**Mohammed Shakib** — Computer Science student specializing in **AI & Machine Learning**.
+
+- 🎓 **B.Tech** CS (AI & ML)
+- 👁️ Passionate about **Computer Vision**
+- 💻 Strong in **C** & **Data Structures**
+- 🐍 Building projects with **Python + OpenCV**
+- 🌱 Learning **ML** every day
+- 📍 India
 
 <br/>
 
 ```python
-skills = {
-    "languages" : ["C", "Python", "HTML", "CSS", "JavaScript"],
-    "cv_tools"  : ["OpenCV", "NumPy"],
-    "tools"     : ["Git", "GitHub", "VS Code"],
-    "currently" : "Building AI projects & mastering DSA"
+about_me = {
+  "name"      : "Mohammed Shakib",
+  "degree"    : "B.Tech — CS (AI & ML)",
+  "skills"    : ["C", "Python", "HTML", "CSS", "JS", "OpenCV"],
+  "building"  : "Computer Vision projects",
+  "learning"  : "Machine Learning",
+  "goal"      : "Build intelligent systems 🤖"
 }
 ```
 
@@ -41,23 +36,13 @@ skills = {
 
 ---
 
-### 🚀 Projects
-
-| &nbsp; | Project | Description | Tech |
-|:---:|:--------|:------------|:-----|
-| 👁️ | [**GestureVision X**](https://github.com/5645mohammedshakib/gestureVision_X) | Real-time hand gesture recognition via webcam | Python · OpenCV · NumPy |
-| 🌐 | [**Portfolio**](https://github.com/5645mohammedshakib/portfolio) | Personal portfolio website | HTML · CSS · JS |
-| 🗂️ | [**Data Structures in C**](https://github.com/5645mohammedshakib/ds-using-c) | Stack, Queue, Linked List, Trees | C |
-| 📚 | [**PPS in C**](https://github.com/5645mohammedshakib/pps-coding-in-c-language) | Programming & Problem Solving | C |
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=5645mohammedshakib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=8&include_all_commits=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=5645mohammedshakib&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&border_radius=8&dates=8b949e&sideLabels=8b949e" width="49%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=👁️+Computer+Vision+%7C+OpenCV+%7C+Python;🧠+Data+Structures+%26+Algorithms+in+C;🌐+HTML+%7C+CSS+%7C+JavaScript;🚀+AI+%26+ML+Student+%7C+Building+Real+Projects)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=5645mohammedshakib&style=flat&color=58a6ff&label=profile+views)](https://github.com/5645mohammedshakib)
+&ensp;
+[![Followers](https://img.shields.io/github/followers/5645mohammedshakib?style=flat&color=58a6ff&label=followers&labelColor=161b22)](https://github.com/5645mohammedshakib?tab=followers)
 
 </div>
 
@@ -65,34 +50,73 @@ skills = {
 
 ### 🛠️ Tech Stack
 
+> Only the tools I've **actually used** in my projects
+
 **Languages**
 
-![C](https://img.shields.io/badge/C-161b22?style=flat&logo=c&logoColor=58a6ff)
-![Python](https://img.shields.io/badge/Python-161b22?style=flat&logo=python&logoColor=58a6ff)
-![HTML5](https://img.shields.io/badge/HTML5-161b22?style=flat&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat&logo=css3&logoColor=1572b6)
-![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat&logo=javascript&logoColor=f7df1e)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=58a6ff)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 
-**Libraries & Tools I've Used**
+**Libraries & Tools**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=flat&logo=opencv&logoColor=58a6ff)
-![NumPy](https://img.shields.io/badge/NumPy-161b22?style=flat&logo=numpy&logoColor=58a6ff)
-![Git](https://img.shields.io/badge/Git-161b22?style=flat&logo=git&logoColor=f05032)
-![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS%20Code-161b22?style=flat&logo=visualstudiocode&logoColor=58a6ff)
-
----
-
-### 📬 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat&logo=linkedin&logoColor=0a66c2&label=Mohammed+Shakib)](https://linkedin.com/in/mohammedshakib)
-&ensp;
-[![Gmail](https://img.shields.io/badge/Gmail-161b22?style=flat&logo=gmail&logoColor=ea4335&label=5645mohammedshakib)](mailto:5645mohammedshakib@gmail.com)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=58a6ff)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=58a6ff)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff)
 
 ---
+
+### 🚀 My Projects
 
 <div align="center">
-<sub>Made with focus 🎯 by Mohammed Shakib</sub>
+
+<a href="https://github.com/5645mohammedshakib/gestureVision_X">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=5645mohammedshakib&repo=gestureVision_X&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10"/>
+</a>
+<a href="https://github.com/5645mohammedshakib/portfolio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=5645mohammedshakib&repo=portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10"/>
+</a>
+
+<a href="https://github.com/5645mohammedshakib/ds-using-c">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=5645mohammedshakib&repo=ds-using-c&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10"/>
+</a>
+<a href="https://github.com/5645mohammedshakib/pps-coding-in-c-language">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=5645mohammedshakib&repo=pps-coding-in-c-language&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10"/>
+</a>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=5645mohammedshakib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10&include_all_commits=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5645mohammedshakib&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10"/>
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=5645mohammedshakib&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=10"/>
+
+</div>
+
+---
+
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/mohammedshakib)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:5645mohammedshakib@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/5645mohammedshakib)
+
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1b2a,100:0d1117&height=100&section=footer"/>
+
+</div>
