@@ -5,9 +5,9 @@
 ---
 
 <!-- ROW 1: Boy1 LEFT | About | Boy2 RIGHT -->
-<img align="left" width="22%" src="https://raw.githubusercontent.com/5645mohammedshakib/5645mohammedshakib/main/boy1.png" alt="Developer"/>
+<img align="left" width="22%" src="https://raw.githubusercontent.com/5645mohammedshakib/5645mohammedshakib/main/boy1.gif" alt="Developer"/>
 
-<img align="right" width="22%" src="https://raw.githubusercontent.com/5645mohammedshakib/5645mohammedshakib/main/boy2.png" alt="Coding"/>
+<img align="right" width="22%" src="https://raw.githubusercontent.com/5645mohammedshakib/5645mohammedshakib/main/boy2.gif" alt="Coding"/>
 
 <div align="center">
 
