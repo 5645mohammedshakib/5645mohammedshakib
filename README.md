@@ -1,88 +1,98 @@
-<!-- MOHAMMED SHAKIB — GitHub Profile README -->
-
 <div align="center">
 
-<!-- ░░░ GLASSMORPHISM HEADER ░░░ -->
-<img src="https://raw.githubusercontent.com/5645mohammedshakib/5645mohammedshakib/main/header.svg" width="100%" alt="Mohammed Shakib"/>
-
-<br/><br/>
-
-<!-- ░░░ ANIMATED TYPING ░░░ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=👁️+Computer+Vision+%7C+OpenCV+%7C+Python;🧠+Data+Structures+%26+Algorithms+in+C;🌐+Web+Dev+%7C+HTML+CSS+JavaScript;🚀+CS+Student+%7C+AI+%26+ML+Specialization)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Mohammed%20Shakib&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Computer%20Science%20(AI%20%26%20ML)%20%7C%20Computer%20Vision%20%7C%20Python%20%7C%20C&descAlignY=68&descSize=15&descColor=8b949e"/>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=5645mohammedshakib&style=flat-square&color=blueviolet&label=Profile+Views)](https://github.com/5645mohammedshakib)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/5645mohammedshakib?style=flat-square&label=Followers&color=7c3aed)](https://github.com/5645mohammedshakib)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Computer+Vision+Projects+%F0%9F%91%81%EF%B8%8F;Data+Structures+%26+Algorithms+in+C+%F0%9F%A7%A0;Learning+AI+%26+ML+every+single+day+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+[![komarev](https://komarev.com/ghpvc/?username=5645mohammedshakib&style=flat&color=58a6ff&label=profile+views)](https://github.com/5645mohammedshakib)
+&ensp;
+[![followers](https://img.shields.io/github/followers/5645mohammedshakib?label=followers&style=flat&color=58a6ff&labelColor=161b22)](https://github.com/5645mohammedshakib?tab=followers)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5645mohammedshakib&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=8" width="38%"/>
 
-```yaml
-Name       : Mohammed Shakib
-Degree     : B.Tech — Computer Science (AI & ML)
-Location   : India
-Focus      : Computer Vision | Python | C | Web Dev
-Currently  : Building real-world CV projects with OpenCV
-Learning   : ML fundamentals, model training, datasets
-Fun Fact   : I make machines understand the world 👁️
+### 👋 Hey there, I'm Mohammed Shakib
+
+- 🎓 &nbsp;**B.Tech** — Computer Science (AI & ML)
+- 🔭 &nbsp;Working on **Computer Vision** with Python & OpenCV
+- 🌱 &nbsp;Learning **Machine Learning** fundamentals
+- 💡 &nbsp;Strong in **C language** & **Data Structures**
+- 📍 &nbsp;India
+
+<br/>
+
+```python
+skills = {
+    "languages" : ["C", "Python", "HTML", "CSS", "JavaScript"],
+    "cv_tools"  : ["OpenCV", "NumPy"],
+    "tools"     : ["Git", "GitHub", "VS Code"],
+    "currently" : "Building AI projects & mastering DSA"
+}
 ```
 
----
-
-## 🛠️ Skills
-
-<!-- ░░░ GLASSMORPHISM SKILLS PANEL ░░░ -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/5645mohammedshakib/5645mohammedshakib/main/skills.svg" width="100%" alt="Skills"/>
-</div>
+<br clear="right"/>
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
-<div align="center">
-
-| Project | What it does | Tech |
-|:--------|:-------------|:-----|
-| [**👁️ GestureVision X**](https://github.com/5645mohammedshakib/gestureVision_X) | Real-time hand gesture detection via webcam | Python, OpenCV, NumPy |
-| [**🌐 Portfolio**](https://github.com/5645mohammedshakib/portfolio) | Personal portfolio website | HTML, CSS, JavaScript |
-| [**🗂️ Data Structures in C**](https://github.com/5645mohammedshakib/ds-using-c) | Stack, Queue, LL, Trees from scratch | C |
-| [**📚 PPS in C**](https://github.com/5645mohammedshakib/pps-coding-in-c-language) | Programming & Problem Solving basics | C |
-
-</div>
+| &nbsp; | Project | Description | Tech |
+|:---:|:--------|:------------|:-----|
+| 👁️ | [**GestureVision X**](https://github.com/5645mohammedshakib/gestureVision_X) | Real-time hand gesture recognition via webcam | Python · OpenCV · NumPy |
+| 🌐 | [**Portfolio**](https://github.com/5645mohammedshakib/portfolio) | Personal portfolio website | HTML · CSS · JS |
+| 🗂️ | [**Data Structures in C**](https://github.com/5645mohammedshakib/ds-using-c) | Stack, Queue, Linked List, Trees | C |
+| 📚 | [**PPS in C**](https://github.com/5645mohammedshakib/pps-coding-in-c-language) | Programming & Problem Solving | C |
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=5645mohammedshakib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=a855f7&text_color=c9d1d9&border_radius=16&include_all_commits=true"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5645mohammedshakib&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&border_radius=16"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=5645mohammedshakib&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4FF&fire=a855f7&currStreakLabel=00D4FF&border_radius=16" height="160em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=5645mohammedshakib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=8&include_all_commits=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=5645mohammedshakib&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&border_radius=8&dates=8b949e&sideLabels=8b949e" width="49%"/>
 
 </div>
 
 ---
 
-## 📬 Connect
+### 🛠️ Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-161b22?style=flat&logo=c&logoColor=58a6ff)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat&logo=python&logoColor=58a6ff)
+![HTML5](https://img.shields.io/badge/HTML5-161b22?style=flat&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat&logo=css3&logoColor=1572b6)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat&logo=javascript&logoColor=f7df1e)
+
+**Libraries & Tools I've Used**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=flat&logo=opencv&logoColor=58a6ff)
+![NumPy](https://img.shields.io/badge/NumPy-161b22?style=flat&logo=numpy&logoColor=58a6ff)
+![Git](https://img.shields.io/badge/Git-161b22?style=flat&logo=git&logoColor=f05032)
+![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-161b22?style=flat&logo=visualstudiocode&logoColor=58a6ff)
+
+---
+
+### 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat&logo=linkedin&logoColor=0a66c2&label=Mohammed+Shakib)](https://linkedin.com/in/mohammedshakib)
+&ensp;
+[![Gmail](https://img.shields.io/badge/Gmail-161b22?style=flat&logo=gmail&logoColor=ea4335&label=5645mohammedshakib)](mailto:5645mohammedshakib@gmail.com)
+
+---
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0d1117)](https://linkedin.com/in/mohammedshakib)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0d1117)](mailto:5645mohammedshakib@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/5645mohammedshakib)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
+<sub>Made with focus 🎯 by Mohammed Shakib</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
