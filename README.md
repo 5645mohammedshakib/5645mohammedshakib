@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- HEADER — self-hosted SVG, always works -->
+<!-- HEADER — self-hosted, always works -->
 <img src="https://raw.githubusercontent.com/5645mohammedshakib/5645mohammedshakib/main/header.svg" width="100%" alt="Mohammed Shakib"/>
 
 </div>
@@ -31,21 +31,21 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=58a6ff)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+[![My Skills](https://skillicons.dev/icons?i=c,python,html,css,js,opencv,git,github,vscode&perline=9)](https://skillicons.dev)
 
-**Libraries & Tools**
+</div>
 
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=58a6ff)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=58a6ff)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff)
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=5645mohammedshakib&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -75,11 +75,39 @@
 
 ---
 
+### 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=5645mohammedshakib&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5645mohammedshakib/5645mohammedshakib/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5645mohammedshakib/5645mohammedshakib/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/5645mohammedshakib/5645mohammedshakib/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
 ### 📬 Connect
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/mohammedshakib)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:5645mohammedshakib@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/5645mohammedshakib)
+
+</div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/5645mohammedshakib/5645mohammedshakib/main/footer.svg" width="100%" alt="footer"/>
