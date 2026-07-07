@@ -1,0 +1,52 @@
+<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#060612"/>
+      <stop offset="50%" style="stop-color:#0d1b3e"/>
+      <stop offset="100%" style="stop-color:#060612"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff"/>
+      <stop offset="50%" style="stop-color:#7c3aed"/>
+      <stop offset="100%" style="stop-color:#00d4ff"/>
+    </linearGradient>
+    <radialGradient id="orb1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0.12"/>
+      <stop offset="100%" style="stop-color:#00d4ff;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0.1"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="blur15"><feGaussianBlur stdDeviation="15"/></filter>
+    <style>
+      @keyframes p{0%,100%{opacity:.4}50%{opacity:1}}
+      .s1{animation:p 3s ease-in-out infinite}
+      .s2{animation:p 2s ease-in-out infinite}
+    </style>
+  </defs>
+  <rect width="1200" height="160" fill="url(#bg)"/>
+  <!-- Wave bottom -->
+  <path d="M0,130 C200,100 400,155 600,125 C800,95 1000,145 1200,115 L1200,160 L0,160 Z" fill="#0d1117" opacity="0.9"/>
+  <!-- Glow orbs -->
+  <ellipse cx="150" cy="80" rx="180" ry="100" fill="url(#orb2)" filter="url(#blur15)"/>
+  <ellipse cx="1050" cy="80" rx="180" ry="100" fill="url(#orb1)" filter="url(#blur15)"/>
+  <!-- Stars -->
+  <circle cx="60" cy="20" r="1" fill="white" opacity="0.5" class="s1"/>
+  <circle cx="200" cy="40" r="0.8" fill="#00d4ff" opacity="0.4" class="s2"/>
+  <circle cx="400" cy="15" r="1.2" fill="white" opacity="0.3"/>
+  <circle cx="600" cy="25" r="0.8" fill="#7c3aed" opacity="0.5" class="s1"/>
+  <circle cx="800" cy="12" r="1" fill="white" opacity="0.4"/>
+  <circle cx="1000" cy="30" r="0.8" fill="#00d4ff" opacity="0.4" class="s2"/>
+  <circle cx="1150" cy="18" r="1.2" fill="white" opacity="0.3"/>
+  <!-- Name -->
+  <text x="600" y="72" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="44" font-weight="700" fill="white" filter="url(#glow)">Mohammed Shakib</text>
+  <!-- Neon underline -->
+  <rect x="340" y="82" width="520" height="2" rx="1" fill="url(#neon)" opacity="0.9"/>
+  <!-- Subtitle -->
+  <text x="600" y="112" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#58a6ff" letter-spacing="3" filter="url(#glow)">COMPUTER SCIENCE (AI &amp; ML)  ·  COMPUTER VISION  ·  PYTHON  ·  C</text>
+</svg>

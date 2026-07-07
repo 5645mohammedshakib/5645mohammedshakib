@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060612,50:0d1b3e,100:060612&height=140&section=header&text=Mohammed%20Shakib&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=55&desc=Computer%20Science%20(AI%20%26%20ML)%20Student&descAlignY=75&descSize=16&descColor=8b949e"/>
+<!-- HEADER — self-hosted SVG, always works -->
+<img src="https://raw.githubusercontent.com/5645mohammedshakib/5645mohammedshakib/main/header.svg" width="100%" alt="Mohammed Shakib"/>
 
 </div>
 
@@ -50,23 +51,12 @@
 
 ### 🚀 Projects
 
-<div align="center">
-
-<a href="https://github.com/5645mohammedshakib/gestureVision_X">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=5645mohammedshakib&repo=gestureVision_X&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10"/>
-</a>
-<a href="https://github.com/5645mohammedshakib/portfolio">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=5645mohammedshakib&repo=portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10"/>
-</a>
-
-<a href="https://github.com/5645mohammedshakib/ds-using-c">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=5645mohammedshakib&repo=ds-using-c&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10"/>
-</a>
-<a href="https://github.com/5645mohammedshakib/pps-coding-in-c-language">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=5645mohammedshakib&repo=pps-coding-in-c-language&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10"/>
-</a>
-
-</div>
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| [👁️ **GestureVision X**](https://github.com/5645mohammedshakib/gestureVision_X) | Real-time hand gesture recognition via webcam | Python · OpenCV · NumPy |
+| [🌐 **Portfolio**](https://github.com/5645mohammedshakib/portfolio) | Personal portfolio website | HTML · CSS · JS |
+| [🗂️ **Data Structures in C**](https://github.com/5645mohammedshakib/ds-using-c) | Stack, Queue, Linked List, Trees from scratch | C |
+| [📚 **PPS in C**](https://github.com/5645mohammedshakib/pps-coding-in-c-language) | Programming & Problem Solving | C |
 
 ---
 
@@ -79,7 +69,7 @@
 
 <br/>
 
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=5645mohammedshakib&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=10"/>
+<img width="65%" src="https://streak-stats.demolab.com/?user=5645mohammedshakib&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=10"/>
 
 </div>
 
@@ -92,5 +82,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/5645mohammedshakib)
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060612,50:0d1b3e,100:060612&height=100&section=footer"/>
+<img src="https://raw.githubusercontent.com/5645mohammedshakib/5645mohammedshakib/main/footer.svg" width="100%" alt="footer"/>
 </div>
