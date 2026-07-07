@@ -31,21 +31,21 @@
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,html,css,js,opencv,git,github,vscode&perline=9)](https://skillicons.dev)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=58a6ff)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 
-</div>
+**Libraries & Tools**
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=5645mohammedshakib&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=58a6ff)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=58a6ff)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff)
 
 ---
 
@@ -75,7 +75,7 @@
 
 ---
 
-### 📈 Contribution Activity
+### 📈 Activity Graph
 
 <div align="center">
 
