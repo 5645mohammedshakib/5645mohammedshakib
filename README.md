@@ -64,8 +64,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=5645mohammedshakib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10&include_all_commits=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5645mohammedshakib&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=5645mohammedshakib&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=5645mohammedshakib&theme=github_dark"/>
 
 <br/>
 
