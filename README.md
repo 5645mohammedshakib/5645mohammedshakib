@@ -14,7 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=58A6FF&center=false&vCenter=true&width=460&lines=AI+%26+ML+Student+%F0%9F%A4%96;Computer+Vision+with+OpenCV+%F0%9F%91%81%EF%B8%8F;Data+Structures+%26+Algorithms+in+C+%F0%9F%A7%A0;Building+real+projects+every+day+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ```yaml
-🎓 Degree   : B.Tech — CS (AI & ML)
+🎓 persuing  : B.Tech — CSE(AI & ML) 
 👁️ Vision   : Computer Vision | OpenCV | Python
 💻 Core     : C Language | Data Structures & Algorithms
 🌐 Web      : HTML | CSS | JavaScript
