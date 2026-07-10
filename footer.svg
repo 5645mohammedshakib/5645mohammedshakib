@@ -1,28 +1,50 @@
 <svg width="1200" height="100" viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#10101c" stroke-width="1"/>
+    </pattern>
+    <!-- Background Gradient -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#060612"/>
-      <stop offset="50%" style="stop-color:#0d1b3e"/>
-      <stop offset="100%" style="stop-color:#060612"/>
+      <stop offset="0%" style="stop-color:#000000"/>
+      <stop offset="50%" style="stop-color:#05050f"/>
+      <stop offset="100%" style="stop-color:#000000"/>
     </linearGradient>
+    <!-- Neon Accent Gradient -->
     <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00d4ff"/>
-      <stop offset="50%" style="stop-color:#7c3aed"/>
-      <stop offset="100%" style="stop-color:#00d4ff"/>
+      <stop offset="0%" style="stop-color:#7c3aed"/>
+      <stop offset="50%" style="stop-color:#00d4ff"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
     </linearGradient>
-    <filter id="blur15"><feGaussianBlur stdDeviation="15"/></filter>
+    <!-- Radial Glow Orb -->
     <radialGradient id="orb" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0.1"/>
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0.2"/>
       <stop offset="100%" style="stop-color:#00d4ff;stop-opacity:0"/>
     </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
+
+  <!-- Solid Pitch Black Base -->
   <rect width="1200" height="100" fill="url(#bg)"/>
-  <!-- Wave top -->
-  <path d="M0,30 C200,60 400,5 600,35 C800,65 1000,15 1200,45 L1200,0 L0,0 Z" fill="#0d1117" opacity="0.9"/>
-  <!-- Orb -->
-  <ellipse cx="600" cy="60" rx="300" ry="60" fill="url(#orb)" filter="url(#blur15)"/>
-  <!-- Text -->
-  <text x="600" y="72" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#58a6ff" fill-opacity="0.5" letter-spacing="3">MADE WITH FOCUS  ·  MOHAMMED SHAKIB  ·  2024</text>
-  <!-- Neon line -->
-  <rect x="400" y="45" width="400" height="1" rx="0.5" fill="url(#neon)" opacity="0.4"/>
+  
+  <!-- Glowing Grid overlay -->
+  <rect width="1200" height="100" fill="url(#grid)"/>
+
+  <!-- Glowing Orb in the center -->
+  <ellipse cx="600" cy="50" rx="300" ry="40" fill="url(#orb)" filter="url(#glow)"/>
+
+  <!-- Neon divider line -->
+  <rect x="400" y="25" width="400" height="1.5" rx="0.75" fill="url(#neon)" filter="url(#glow)"/>
+
+  <!-- Footer Text -->
+  <text x="600" y="60" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="bold" fill="#00d4ff" letter-spacing="3" filter="url(#glow)">
+    MADE WITH FOCUS // MOHAMMED SHAKIB // © 2026
+  </text>
+  
+  <text x="600" y="80" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="9" fill="#5c6a8c" letter-spacing="1">
+    BUILDING INTELLIGENT SYSTEMS · SECURE CONNECTION ESTABLISHED
+  </text>
 </svg>
